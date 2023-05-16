@@ -1,0 +1,31 @@
+<!doctype html> ammu nation 
+<P> Ammu nation é a maior loja de armas Airsoft do mundo, com os melhores e mais baixos preços, além de entregas rapidas e seguras.  O Airsoft é um esporte de ação que simula situações de combate. Para isso utiliza armas de pressão que disparam bolinhas de plástico. Os jogadores de Airsoft são amantes de adrenalina e práticas de combate militar, mas são principalmente pessoas comuns que praticam a modalidade por prazer, diversão, treinamento físico e outros motivos.
+    <!DOCTYPE html>
+    <html lang="pt" dir="ltr">
+      <head>
+        <meta charset="utf-8">
+        <title>Ammunation</title>
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet"href="index.css">
+      </head>
+        <body>
+    
+          <header>
+        <div class="Ammu nation é a maior loja de armas Airsoft do mundo, com os melhores e mais baixos preços, além de entregas rapidas e seguras. O Airsoft é um esporte de ação que simula situações de combate. Para isso utiliza armas de pressão que disparam bolinhas de plástico. Os jogadores de Airsoft são amantes de adrenalina e práticas de combate militar, mas são principalmente pessoas comuns que praticam a modalidade por prazer, diversão, treinamento físico e outros motivos.">
+          <h1>Principal loja de Airsoft no mundo</h1>
+          <img id="imagem principal" src="coding-image.png">
+    
+          <h2>Esta loja tem como objetivo <b>levar qualidade e fácil acesso </b> aos praticantes dessa modalidade</h2>
+          <p>Este, faz parte do projeto social da modalidade o qual é dedicado a todos os praticantes do \brasil</p>
+              </div>
+          
+                <h2>Quais as plataformas específicas que são oferecidas acessórios para venda</h2>
+                <ul>
+                  <li class="itens">Pc<a href="index.html"></a></li>
+                  <li class="itens">Console</li>
+                  <li class="itens">Mobile</li>
+                </ul>
+              </div>
+      </body>
+      </html>
+     
